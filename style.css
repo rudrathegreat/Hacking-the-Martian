@@ -249,10 +249,11 @@ body {
 }
 
 .about-book p {
-    font-size:1.5vw;
+    font-size:1.25vw;
     line-height:1.5;
     text-transform:uppercase;
     float:left;
+    padding-top:3vh;
 }
 
 .about-book .text {
